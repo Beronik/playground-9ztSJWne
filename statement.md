@@ -5,6 +5,13 @@ This PHP template lets you get started quickly with a simple one-page playground
 ```php runnable
 <?php
 echo "Hello World!";
+echo "Version de PHP : ",PHP_VERSION,"<br />;
+echo "Système d'explotation du serveur :",PHP_OS,"
+<br />"
+;
+
+
+
 ?>
 ```
 
